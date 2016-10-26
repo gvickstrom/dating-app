@@ -1,0 +1,16 @@
+/*background style for homepage*/
+
+.background-image {
+  background-image: url('https://www.autismspeaks.org/sites/default/files/docs/dating_feature_0.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.background-image h1 {
+  margin: 0;
+  text-align: center;
+  padding: 20vh;
+  font-size: 80px;
+}
